@@ -1,0 +1,12 @@
+fc ".\output\basicinformation\gen\BasicInformation.java" "..\Cs124Generator\output\basicinformation\gen\BasicInformation.java" > out.txt
+fc ".\output\basicinformation\gen\BasicInformationJsonSerializer.java" "..\Cs124Generator\output\basicinformation\gen\BasicInformationJsonSerializer.java" >> out.txt
+fc ".\output\basicinformation\gen\BasicInformationValidator.java" "..\Cs124Generator\output\basicinformation\gen\BasicInformationValidator.java" >> out.txt
+fc ".\output\json\BasicInformation.json" "..\Cs124Generator\output\json\BasicInformation.json" >> out.txt
+fc ".\output\json\NurseRegistration.json" "..\Cs124Generator\output\json\NurseRegistration.json" >> out.txt
+fc ".\output\json\StudentHealthAssessment.json" "..\Cs124Generator\output\json\StudentHealthAssessment.json" >> out.txt
+fc ".\output\nurseregistration\gen\NurseRegistration.java" "..\Cs124Generator\output\nurseregistration\gen\NurseRegistration.java" >> out.txt
+fc ".\output\nurseregistration\gen\NurseRegistrationJsonSerializer.java" "..\Cs124Generator\output\nurseregistration\gen\NurseRegistrationJsonSerializer.java" >> out.txt
+fc ".\output\nurseregistration\gen\NurseRegistrationValidator.java" "..\Cs124Generator\output\nurseregistration\gen\NurseRegistrationValidator.java" >> out.txt
+fc ".\output\studenthealthassessment\gen\StudentHealthAssessment.java" "..\Cs124Generator\output\studenthealthassessment\gen\StudentHealthAssessment.java" >> out.txt
+fc ".\output\studenthealthassessment\gen\StudentHealthAssessmentJsonSerializer.java" "..\Cs124Generator\output\studenthealthassessment\gen\StudentHealthAssessmentJsonSerializer.java" >> out.txt
+fc ".\output\studenthealthassessment\gen\StudentHealthAssessmentValidator.java" "..\Cs124Generator\output\studenthealthassessment\gen\StudentHealthAssessmentValidator.java" >> out.txt
